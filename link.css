@@ -1,0 +1,16 @@
+body{
+    background-image: url(nit.jpg);
+    background-color: grey;
+}
+a:link{
+    color: red;
+}
+a:visited{
+    color: blue;
+}
+a:hover{
+    color: yellow;
+}
+a:active{
+    color: darkblue;
+}

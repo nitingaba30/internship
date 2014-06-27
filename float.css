@@ -1,0 +1,13 @@
+body{
+    background-color: blue;
+}
+.prop{
+    float: left;
+    width: 417px;
+    length: 516px;
+    margin: 10px;
+    }
+p.hello{
+    color: maroon;
+    text-align: center;
+}

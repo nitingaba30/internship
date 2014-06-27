@@ -1,0 +1,19 @@
+body {
+
+    background-image: url("Football_wallpapers_5.jpg");
+    background-attachment: fixed;
+
+}
+h1{
+    color: black;
+}
+
+#my{
+    color: blue;
+    text-aling: left;
+}
+.info{
+    color: green;
+    text-align: center;
+}
+
